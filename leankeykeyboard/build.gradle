@@ -5,11 +5,11 @@ android {
     buildToolsVersion project.properties.buildToolsVersion
 
     defaultConfig {
-        applicationId "org.liskovsoft.leankeykeyboard.pro"
+        applicationId "org.liskovsoft.leankeykeyboard.pro.large"
         minSdkVersion project.properties.minSdkVersion
         targetSdkVersion project.properties.targetSdkVersion
-        versionCode 80
-        versionName "4.3.30"
+        versionCode 81
+        versionName "4.4.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
